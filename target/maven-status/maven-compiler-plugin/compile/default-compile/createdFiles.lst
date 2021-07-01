@@ -1,0 +1,11 @@
+org\flipkart\inventory\core\Book.class
+org\flipkart\inventory\App.class
+org\flipkart\inventory\module\InventoryModule.class
+org\flipkart\inventory\resource\BookResource.class
+org\flipkart\inventory\App$1.class
+org\flipkart\inventory\InventoryConfiguration.class
+org\flipkart\inventory\core\Author.class
+org\flipkart\inventory\resource\AuthorResource.class
+org\flipkart\inventory\dao\BookDAO.class
+org\flipkart\inventory\App$2.class
+org\flipkart\inventory\dao\AuthorDAO.class
